@@ -1,0 +1,14 @@
+{
+  "name": "Subnet Calculator",
+  "short_name": "Subnet Calc",
+  "description": "IPv4 CIDR subnet calculator for network engineers",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
